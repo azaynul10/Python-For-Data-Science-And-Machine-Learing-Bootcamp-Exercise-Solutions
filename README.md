@@ -4,3 +4,5 @@ These are some exercise solutions which I solved after learning sections on Udem
 Basics of Python: https://dev.to/azaynul10/blog-1-basics-of-python-1abf
 
 Numpy: https://dev.to/azaynul10/introduction-to-numpy-1h4a
+
+Pandas: https://dev.to/azaynul10/pandas-2k37
