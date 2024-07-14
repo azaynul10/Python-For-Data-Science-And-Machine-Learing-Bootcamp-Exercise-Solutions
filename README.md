@@ -73,7 +73,6 @@ This project is open source and available under the [MIT License](https://openso
 ## 🙏 Acknowledgements
 
 - [Udemy](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) for the comprehensive course
-- [freeCodeCamp](https://www.freecodecamp.org/) for the amazing free resources
 - The web development and data science community for constant inspiration
 
 ---
